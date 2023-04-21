@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+
+  h1 {
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #btGitHub {
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+  }
+  
+  #btGitHub:hover {
+    background-color: #0062cc;
+  }
+  
+  #listaGitHub {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  #listaGitHub li {
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  #listaGitHub li:hover {
+    background-color: #f1f1f1;
+  }
+  
+
+  #lista {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    color: #999;
+    margin-top: 20px;
+  }
+  
+  #lista:before {
+    content: "Nenhum item encontrado";
+    display: block;
+    margin-top: 20px;
+  }
+  
+
+  code {
+    font-family: Consolas, monospace;
+    background
+  
